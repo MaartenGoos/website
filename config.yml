@@ -1,0 +1,111 @@
+baseURL: "" 
+title: Maarten Goos
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+social:
+    twitter: maarten_goos
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Research
+          url: /research/
+          weight: 1
+        - name: Teaching
+          url: /teaching/
+          weight: 2
+        - name: Say more
+          url: /more/
+          weight: 3
+        - name: Tags
+          url: /tags/
+          weight: 4     
+        
+
+params:
+    description: "homepage of Maarten Goos"
+    author: Maarten Goos
+    googleAnalyticsID: "G-97G4MZ4061"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: true
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Maarten Goos
+          subtitle: "I am an Endowed Professor at Utrecht University. My research focusses on labor markets, technological progress, job polarization, job tasks and worker competencies, bargaining, social security and inequality. I received my PhD from the London School of Economics in 2006 and held positions at Erasmus University Rotterdam and KU Leuven before joining Utrecht University in 2015. I held visiting positions at Princeton University, LSE, MIT, and Boston University, and I have been involved in multiple initiatives by the European Commission and national policy institutes."
+          imageUrl: "/picture.jpg"
+          imageWidth: 320
+          imageHeight: 320
+          imageTitle: Maarten Goos
+          buttons:
+            - name: Research
+              url: /research/
+            - name: Teaching
+              url: /teaching/
+            - name: Say more
+              url: /more/
+    socialIcons:
+        - name: CV
+          url: /CV_Goos_202309.pdf
+        - name: Email
+          url: mailto:m.goos@uu.nl
+        - name: Location
+          url: /location/
+        - name: Office Hours
+          url: /officehours/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?hl=en&user=7V39ONYAAAAJ
+        - name: YouTube
+          url: https://www.youtube.com/channel/UCBYnzxKGB_JSUoXcAWrNGCg
+        - name: GitHub
+          url: https://github.com/MaartenGoos
+
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: true
+        hiddenInSingle: true
+    label:
+      text: "Maarten Goos"
+      icon: /picture.jpg
+      iconHeight: 30
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: xcode
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
+
+# max number of characters:
+# * title: 70
+# * description: 120–155
+# * summary: 265

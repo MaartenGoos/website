@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>two-sided markets, matching, externalities on Maarten Goos</title>
+    <link>/tags/two-sided-markets-matching-externalities/</link>
+    <description>Recent content in two-sided markets, matching, externalities on Maarten Goos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Feb 2014 00:00:00 +0000</lastBuildDate><atom:link href="/tags/two-sided-markets-matching-externalities/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Platform Pricing in Matching Markets</title>
+      <link>/research/4/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/research/4/</guid>
+      <description>This paper introduces matching in two-sided markets. It shows that a platform&amp;rsquo;s positive cross-side and negative own-side network externalities can be summarized by a general matching function that captures the efficiency of the platform&amp;rsquo;s matching technology. The paper also shows that the pricing strategy of a monopoly matchmaker only partially internalizes the efficiency of its matching technology.</description>
+    </item>
+    
+  </channel>
+</rss>

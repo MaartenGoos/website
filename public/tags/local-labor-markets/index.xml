@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>local labor markets on Maarten Goos</title>
+    <link>/tags/local-labor-markets/</link>
+    <description>Recent content in local labor markets on Maarten Goos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/local-labor-markets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markets for Jobs and their Task Overlap</title>
+      <link>/research/9/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/research/9/</guid>
+      <description>This paper shows that the labour market is organized along jobs and their task content. It shows that tightness in markets for jobs for which an unemployed job seeker fully qualifies in terms of her task competencies is predictive of her unemployment duration. The paper also finds that unemployed job seekers do not compete in markets where they possess only part of the required task competencies, suggesting that task overlap across jobs is unimportant for worker mobility between job markets.</description>
+    </item>
+    
+    <item>
+      <title>Local High-Tech Job Multipliers in Europe</title>
+      <link>/research/7/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/research/7/</guid>
+      <description>This article finds that each worker in a high-skilled occupation creates up to five extra jobs in local less-skilled-intensive services in the same region. However, it is also shown that there exist persistent differences in the size of this local high-tech job multiplier across regions.</description>
+    </item>
+    
+  </channel>
+</rss>

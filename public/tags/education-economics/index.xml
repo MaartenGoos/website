@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>education economics on Maarten Goos</title>
+    <link>/tags/education-economics/</link>
+    <description>Recent content in education economics on Maarten Goos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Feb 2015 00:00:00 +0000</lastBuildDate><atom:link href="/tags/education-economics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Measuring Teaching Quality in Higher Education: Assessing Selection Bias in Course Evaluations</title>
+      <link>/research/6/</link>
+      <pubDate>Thu, 12 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/research/6/</guid>
+      <description>This paper finds that there is an upward selection bias in students&amp;rsquo; course evaluations, and that correcting for this bias has non-negligible effects on the average evaluation score and on the evaluation-based ranking of courses. However, we find that adjusting for selection only has small impacts on the measured effects of observables on course evaluations, validating a large related literature which considers the observable determinants of evaluation scores without correcting for selection bias.</description>
+    </item>
+    
+  </channel>
+</rss>

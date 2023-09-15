@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Say more on Maarten Goos</title>
+    <link>/more/</link>
+    <description>Recent content in Say more on Maarten Goos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/more/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Impact of AI on Work</title>
+      <link>/more/m2/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/more/m2/</guid>
+      <description>This article summarizes the economic literature on the impact of AI on work.</description>
+    </item>
+    
+    <item>
+      <title>The Future of Work</title>
+      <link>/more/m1/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/more/m1/</guid>
+      <description>The Future of Work</description>
+    </item>
+    
+  </channel>
+</rss>

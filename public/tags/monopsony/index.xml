@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>monopsony on Maarten Goos</title>
+    <link>/tags/monopsony/</link>
+    <description>Recent content in monopsony on Maarten Goos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/monopsony/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graduate Labour Economics</title>
+      <link>/teaching/c2/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/c2/</guid>
+      <description>This graduate course in labour economics presents an in-depth overview of recent research in labour economics focussing on inequality, technological change, globalization, worker power, and monopsony. The course stresses the most recent theories as well as recent advances in empirical research designs.</description>
+    </item>
+    
+  </channel>
+</rss>
