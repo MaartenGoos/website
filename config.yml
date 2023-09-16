@@ -79,7 +79,7 @@ params:
           url: https://scholar.google.com/citations?hl=en&user=7V39ONYAAAAJ
         - name: GitHub
           url: https://github.com/MaartenGoos
-        - name: Twitter
+        - name: X
           url: https://twitter.com/maarten_goos
         - name: LinkedIn
           url: https://www.linkedin.com/in/maarten-goos-9613013  
