@@ -33,8 +33,8 @@ params:
     author: Maarten Goos
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: true
+    defaultTheme: auto
+    hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
