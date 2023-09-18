@@ -35,7 +35,7 @@ params:
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -59,6 +59,8 @@ params:
           imageWidth: 320
           imageHeight: 320
           imageTitle: Maarten Goos
+          params:
+            disableThemeToggle: false
           buttons:
             - name: Research
               url: /research/
