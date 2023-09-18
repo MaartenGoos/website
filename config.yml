@@ -59,8 +59,6 @@ params:
           imageWidth: 320
           imageHeight: 320
           imageTitle: Maarten Goos
-          params:
-            disableThemeToggle: false
           buttons:
             - name: Research
               url: /research/
@@ -90,6 +88,7 @@ params:
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
+        disableThemeToggle: false
     cover:
         hiddenInList: true
         hiddenInSingle: true
