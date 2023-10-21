@@ -47,7 +47,7 @@ params:
     profileMode:
           enabled: true
           title: Maarten Goos
-          subtitle: "I am Endowed Professor at Utrecht University. My research focusses on labor markets, technological progress, job polarization, job tasks and worker competencies, bargaining, social security and inequality. I received my PhD from the London School of Economics in 2006 and held positions at Erasmus University Rotterdam and KU Leuven before joining Utrecht University in 2015. I held visiting positions at Princeton University, LSE, MIT, and Boston University, and I have been involved in multiple initiatives by the European Commission and national policy institutes."
+          subtitle: "I am an Endowed Professor at Utrecht University. My research focusses on labor markets, technological progress, job polarization, job tasks and worker competencies, bargaining, social security and inequality. I received my PhD from the London School of Economics in 2006 and held positions at Erasmus University Rotterdam and KU Leuven before joining Utrecht University in 2015. I held visiting positions at Princeton University, LSE, MIT, and Boston University, and I have been involved in multiple initiatives by the European Commission and national policy institutes."
           imageUrl: "/picture.jpg"
           imageWidth: 320
           imageHeight: 320
