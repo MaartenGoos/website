@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Working papers"
 aliases: /archive/
-description: "Working papers and publications."
+description: "Working papers"
 ---
