@@ -10,7 +10,7 @@ taxonomies:
     tag: tags
 menu:
     main:
-        - name: Research
+        - name: Working papers
           url: /research/
           weight: 1
         - name: Teaching
@@ -53,31 +53,21 @@ params:
           imageHeight: 320
           imageTitle: Maarten Goos
           buttons:
-            - name: Research
+            - name: Working papers
               url: /research/
             - name: Teaching
               url: /teaching/
             - name: Say more
               url: /more/
     socialIcons:
-        - name: CV
-          url: /CV_Goos_202309.pdf
         - name: Email
           url: mailto:m.goos@uu.nl
-        - name: Location
-          url: /location/
-        - name: Office Hours
-          url: /officehours/
+        - name: CV
+          url: /CV_Goos_202309.pdf
         - name: Google Scholar
           url: https://scholar.google.com/citations?hl=en&user=7V39ONYAAAAJ
-        - name: GitHub
-          url: https://github.com/MaartenGoos
-        - name: Twitter
-          url: https://twitter.com/maarten_goos
-        - name: LinkedIn
-          url: https://www.linkedin.com/in/maarten-goos-9613013  
-        - name: YouTube
-          url: https://www.youtube.com/channel/UCBYnzxKGB_JSUoXcAWrNGCg     
+        - name: Location
+          url: /location/
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
