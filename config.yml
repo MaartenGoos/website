@@ -18,10 +18,7 @@ menu:
           weight: 2
         - name: Say more
           url: /more/
-          weight: 3
-        - name: Tags
-          url: /tags/
-          weight: 4        
+          weight: 3        
 params:
     description: "homepage of Maarten Goos"
     author: Maarten Goos
