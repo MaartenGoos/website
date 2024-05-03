@@ -57,12 +57,12 @@ params:
             - name: Say more
               url: /more/
     socialIcons:
-        - name: Email
-          url: mailto:m.goos@uu.nl
         - name: CV
           url: /CV_Goos_202309.pdf
         - name: Google Scholar
           url: https://scholar.google.com/citations?hl=en&user=7V39ONYAAAAJ
+        - name: Email
+          url: mailto:m.goos@uu.nl
         - name: Location
           url: /location/
     assets:
