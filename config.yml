@@ -44,7 +44,8 @@ params:
     profileMode:
           enabled: true
           title: Maarten Goos
-          subtitle: "I am an Endowed Professor at Utrecht University. My research focusses on labor problems, technological progress, job polarization, what unions do, monopsony, and inequality. For a full list of publications (with links), click on my CV above."
+          subtitle: "I am an Endowed Professor at Utrecht University. My research focusses on labor problems, technological progress, job polarization, what unions do, monopsony, and inequality."
+          subtitle: "For a full list"
           imageUrl: "/picture.jpg"
           imageWidth: 320
           imageHeight: 320
