@@ -61,8 +61,6 @@ params:
           url: /CV_Goos_202405.pdf
         - name: Google Scholar
           url: https://scholar.google.com/citations?hl=en&user=7V39ONYAAAAJ
-        - name: Email
-          url: mailto:m.goos@uu.nl
         - name: Location
           url: /location/
     assets:
