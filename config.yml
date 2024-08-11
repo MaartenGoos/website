@@ -61,7 +61,9 @@ params:
           url: /CV_Goos_202405.pdf
         - name: Google Scholar
           url: https://scholar.google.com/citations?hl=en&user=7V39ONYAAAAJ
-        - name: Location
+        - name: LinkedIn
+          url: /http://linkedin.com/in/maartengoos13/
+        - name: Location 
           url: /location/
     assets:
         disableHLJS: true
