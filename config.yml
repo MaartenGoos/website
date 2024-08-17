@@ -4,8 +4,6 @@ paginate: 20
 theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
-social:
-    twitter: maarten_goos
 taxonomies:
     tag: tags
 menu:
