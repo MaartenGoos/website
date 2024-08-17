@@ -54,8 +54,10 @@ params:
               url: /research/
             - name: Teaching
               url: /teaching/
+            - name: Publications
+              url: /publications/
             - name: Say more
-              url: /more/
+              url: /more/ 
     socialIcons:
         - name: CV
           url: /CV_Goos_202405.pdf
