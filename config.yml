@@ -92,7 +92,6 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
-
 # max number of characters:
 # * title: 70
 # * description: 120–155
