@@ -10,15 +10,18 @@ taxonomies:
     tag: tags
 menu:
     main:
-        - name: Working papers
+        - name: working papers
           url: /research/
           weight: 1
-        - name: Teaching
-          url: /teaching/
+        - name: publications
+          url: /publications/
           weight: 2
-        - name: Say more
+        - name: teaching
+          url: /teaching/
+          weight: 3
+        - name: say more
           url: /more/
-          weight: 3        
+          weight: 4        
 params:
     description: "homepage of Maarten Goos"
     author: Maarten Goos
@@ -50,13 +53,13 @@ params:
           imageHeight: 320
           imageTitle: Maarten Goos
           buttons:
-            - name: Working papers
+            - name: working papers
               url: /research/
-            - name: Teaching
-              url: /teaching/
-            - name: Publications
+            - name: publications
               url: /publications/
-            - name: Say more
+            - name: teaching
+              url: /teaching/
+            - name: say more
               url: /more/ 
     socialIcons:
         - name: CV
