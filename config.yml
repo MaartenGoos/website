@@ -47,7 +47,7 @@ params:
     profileMode:
           enabled: true
           title: Maarten Goos
-          subtitle: "I'm the Instituut Gak Endowed Professor of Economics & Institutions at Utrecht University. My research focusses on labor problems, technological change, what unions do, monopsony, and inequality."
+          subtitle: "My research focusses on labor problems, technological change, what unions do, monopsony, and inequality."
           imageUrl: "/picture.jpg"
           imageWidth: 320
           imageHeight: 320
