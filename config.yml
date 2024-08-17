@@ -47,7 +47,7 @@ params:
     profileMode:
           enabled: true
           title: Maarten Goos
-          subtitle: "My research focusses on labor problems, technological change, what unions do, monopsony, and inequality."
+          subtitle: "I am a labor economist. My research and courses focus on labor problems, technological change, what unions do, monopsony, and inequality."
           imageUrl: "/picture.jpg"
           imageWidth: 320
           imageHeight: 320
