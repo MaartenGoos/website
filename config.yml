@@ -45,10 +45,9 @@ params:
     profileMode:
           enabled: true
           title: Maarten Goos
-          subtitle: "I am a labor economist. 
-          In the first half of the 20th century, the Industrial Revolution served as a catalyst for the emergence of a middle class and democratic institutions such as trade unions. 
-          However, since 1980, the middle class has eroded, the influence of trade unions has declined, and inequality has risen.
-          Therefore, my research and courses focus on labor problems, technological change, what unions do, monopsony, and inequality."
+          subtitle: "Welcome to my webpage! I am a labor economist. My research and courses focus on labor problems, technological change, industrial relations, what unions do, monopsony, and inequality. 
+          In the first half of the 20th century, the Industrial Revolution served as a catalyst for the emergence of a middle class, a more competitive wage system and labor market institutions. 
+          However, since 1980, the middle class has eroded, worker power has declined, and inequality has risen. I aim to address these challenges and contribute to a future where work is equitable and prosperous for all."
           imageUrl: "/picture.jpg"
           imageWidth: 320
           imageHeight: 320
