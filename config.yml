@@ -60,8 +60,8 @@ params:
             - name: say more
               url: /more/ 
     socialIcons:
-        - name: Mail
-          url: "mailto:m.goos@uu.nl"
+        - name: Email
+          url: mailto:m.goos@uu.nl
         - name: CV
           url: /CV_Goos_202408.pdf
         - name: Google Scholar
