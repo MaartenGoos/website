@@ -45,9 +45,7 @@ params:
     profileMode:
           enabled: true
           title: Maarten Goos
-          subtitle: "Welcome to my webpage! I am a labor economist. My research and courses focus on labor problems, technological change, industrial relations, what unions do, monopsony, and inequality. 
-          In the first half of the 20th century, the Industrial Revolution served as a catalyst for the emergence of a middle class, a more competitive wage system and labor market institutions. 
-          However, since 1980, the middle class has eroded, worker power has declined, and inequality has risen. I aim to address these challenges and contribute to a future where work is equitable and prosperous for all."
+          subtitle: "Welcome to my webpage! I am a labor economist. My research and courses focus on labor problems, technological change, industrial relations, what unions do, monopsony, and inequality."
           imageUrl: "/picture.jpg"
           imageWidth: 320
           imageHeight: 320
@@ -62,7 +60,7 @@ params:
             - name: say more
               url: /more/ 
     socialIcons:
-        - name: mail
+        - name: Mail
           url: "mailto:m.goos@uu.nl"
         - name: CV
           url: /CV_Goos_202408.pdf
