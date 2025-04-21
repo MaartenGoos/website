@@ -8,6 +8,9 @@ taxonomies:
     tag: tags
 menu:
     main:
+        - name: Home
+          url: /
+          weight: 0
         - name: working papers
           url: /research/
           weight: 1
