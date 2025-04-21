@@ -68,10 +68,10 @@ params:
           url: https://scholar.google.com/citations?hl=en&user=7V39ONYAAAAJ
         - name: LinkedIn
           url: https://www.linkedin.com/in/maartengoos13/
-        - name: Location 
-          url: /location/
         - name: Substack 
-          url:  https://maartengoos.substack.com/  
+          url:  https://maartengoos.substack.com/
+        - name: Location 
+          url: /location/  
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
