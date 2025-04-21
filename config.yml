@@ -70,7 +70,7 @@ params:
           url: https://www.linkedin.com/in/maartengoos13/
         - name: Location 
           url: /location/
-        - name: Substack 
+        - name: Blog 
           url: https://maartengoos.substack.com/  
         disableHLJS: true
         disableScrollBarStyle: true
