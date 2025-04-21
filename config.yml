@@ -67,12 +67,12 @@ params:
           url: mailto:m.goos@uu.nl
         - name: CV
           url: /CV_Goos_202408.pdf
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?hl=en&user=7V39ONYAAAAJ
         - name: LinkedIn
           url: https://www.linkedin.com/in/maartengoos13/
         - name: Substack 
           url:  https://maartengoos.substack.com/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?hl=en&user=7V39ONYAAAAJ
         - name: Location 
           url: /location/  
     assets:
