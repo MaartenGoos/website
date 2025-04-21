@@ -19,10 +19,7 @@ menu:
           weight: 3
         - name: courses
           url: /courses/
-          weight: 4
-        - name: say more
-          url: /more/
-          weight: 5        
+          weight: 4        
 params:
     description: "homepage of Maarten Goos"
     author: Maarten Goos
@@ -60,8 +57,6 @@ params:
               url: /publications/
             - name: courses
               url: /courses/
-            - name: say more
-              url: /more/ 
     socialIcons:
         - name: Email
           url: mailto:m.goos@uu.nl
