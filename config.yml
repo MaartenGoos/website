@@ -8,21 +8,21 @@ taxonomies:
     tag: tags
 menu:
     main:
-        - name: Home
+        - name: home
           url: /
-          weight: 0
+          weight: 1
         - name: working papers
           url: /research/
-          weight: 1
+          weight: 2
         - name: publications
           url: /publications/
-          weight: 2
+          weight: 3
         - name: courses
           url: /courses/
-          weight: 3
+          weight: 4
         - name: say more
           url: /more/
-          weight: 4        
+          weight: 5        
 params:
     description: "homepage of Maarten Goos"
     author: Maarten Goos
