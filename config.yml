@@ -8,16 +8,16 @@ taxonomies:
     tag: tags
 menu:
     main:
-        - name: home
+        - name: Home
           url: /
           weight: 1
-        - name: working papers
+        - name: Working papers
           url: /research/
           weight: 2
-        - name: publications
+        - name: Publications
           url: /publications/
           weight: 3
-        - name: courses
+        - name: Courses
           url: /courses/
           weight: 4        
 params:
@@ -51,11 +51,11 @@ params:
           imageHeight: 320
           imageTitle: Maarten Goos
           buttons:
-            - name: working papers
+            - name: Working papers
               url: /research/
-            - name: publications
+            - name: Publications
               url: /publications/
-            - name: courses
+            - name: Courses
               url: /courses/
     socialIcons:
         - name: Email
