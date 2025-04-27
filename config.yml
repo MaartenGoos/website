@@ -46,7 +46,7 @@ params:
           enabled: true
           title: Maarten Goos
           subtitle: "Welcome to my homepage! I am a labor economist. My research and courses focus on labor problems, technological change, industrial relations, what unions do, monopsony, and inequality."
-          imageUrl: "/picture-2.jpg"
+          imageUrl: "/picture-2.png"
           imageWidth: 320
           imageHeight: 320
           imageTitle: Maarten Goos
