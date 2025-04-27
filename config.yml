@@ -78,7 +78,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Maarten Goos"
-      icon: /picture.jpg
+      icon: /picture-1.jpg
       iconHeight: 30
 markup:
     goldmark:
