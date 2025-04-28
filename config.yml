@@ -45,7 +45,7 @@ params:
     profileMode:
           enabled: true
           title: Maarten Goos
-          subtitle: "Welcome to my homepage! I am a labor economist. My research and courses focus on labor problems, technological change, industrial relations, what unions do, monopsony, and inequality."
+          subtitle: "Welcome to my homepage! I am an economist. My research and courses focus on labor problems, technological change, industrial relations, what unions do, monopsony, and inequality."
           imageUrl: "/picture-2.jpg"
           imageWidth: 320
           imageHeight: 320
