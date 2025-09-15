@@ -24,7 +24,7 @@ params:
     description: "homepage of Maarten Goos"
     author: false
     DateFormat: "January 2006"
-    defaultTheme: auto
+    defaultTheme: dark
     hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
