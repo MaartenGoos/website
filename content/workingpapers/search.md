@@ -1,7 +1,7 @@
 ---
 title: "Types in Job Search Effort"
 author:  "Maarten Goos and Emilie Rademakers"
-description: "Submitted"
+<!--description: "Submitted"-->
 weight: -24
 cover:
     image: "/ssrn.jpeg"
