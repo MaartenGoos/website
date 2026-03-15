@@ -1,7 +1,7 @@
 ---
 title: "Technological Progress in Slack Labor Markets"
 author:  "Vincent Delabastita and Maarten Goos"
-weight: -23
+weight: 3
 cover:
     image: "/ssrn.jpeg"
     alt: "SSRN"

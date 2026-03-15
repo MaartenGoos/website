@@ -37,11 +37,8 @@
 {{- end }}
 
 {{- $pages := union .RegularPages .Sections }}
-{{- if eq .Section "research" }}
-{{- $pages = $pages.ByWeight.Reverse }}
-{{- end }}
 {{- if eq .Section "workingpapers" }}
-{{- $pages = $pages.Reverse }}
+{{- $pages = $pages.ByWeight }}
 {{- end }}
 
 {{- if .IsHome }}

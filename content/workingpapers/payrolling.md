@@ -2,7 +2,7 @@
 title: "Domestic Outsourcing and Worker Outcomes"
 author:  "Maarten Goos, Anna Salomons, Bas Scheer, and Wiljan van den Berge"
 description: "Revise and Resubmit in <em>Review of Economics and Statistics</em>"
-weight: -21
+weight: 1
 cover:
     image: "/ssrn.jpeg"
     alt: "SSRN"

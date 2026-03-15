@@ -1,7 +1,7 @@
 ---
 title: "Wiring Equality:<br> The Impact of Internet on Wage Dispersion"
 author:  "Sabrina Genz, Maarten Goos, and Victor Picado"
-weight: -22
+weight: 2
 cover:
     image: "/ssrn.jpeg"
     alt: "SSRN"
