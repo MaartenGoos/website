@@ -45,7 +45,7 @@ params:
     profileMode:
           enabled: true
           title: Maarten Goos
-          subtitle: "Welcome to my homepage! I am an economist. My research and courses focus on labor problems, technological change, social security, industrial relations, what unions do, monopsony, and inequality."
+          subtitle: "Welcome to my homepage! I am an economist. My research and courses focus on labor problems, technological change, social security, industrial relations, what unions do, monopsony, and inequality. I am an Instituut Gak Endowed Full Professor at the Utrecht University School of Economics (USE), and I am a Part-Time Full Professor at the Tilburg School of Economics and Management (TiSEM) at Tilburg University."
           imageUrl: "/picture-1.jpg"
           imageWidth: 320
           imageHeight: 320
