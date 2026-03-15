@@ -18,11 +18,11 @@ cover:
 
 ##### Abstract
 
-This paper shows that technological progress changes relative wages through its impact on labor  relations. The paper first presents a simple monopsony model in which firms have wage-setting power because workers are in excess supply, and technological progress erodes firms’ monopsony power by increasing labor market tightness. Although technological progress is factor neutral, the model predicts that lower-tail wage inequality decreases. These predictions are then corroborated using unique census data from Belgium’s Second Industrial Revolution between 1846 and 1896. Instrumental Variables estimates show that lower-tail wage inequality fell more in industries and regions where the adoption of steam engines was higher.
+This paper shows that technological progress changes relative wages through its impact on labor relations. The paper first presents a simple monopsony model in which firms have wage-setting power because workers are in excess supply, and technological progress erodes firms’ monopsony power by increasing labor market tightness. Although technological progress is factor neutral, the model predicts that lower-tail wage inequality decreases. These predictions are then corroborated using unique census data from Belgium’s Second Industrial Revolution between 1846 and 1896. Instrumental Variables estimates show that lower-tail wage inequality fell more in industries and regions where the adoption of steam engines was higher.
 
 ---
 
-##### Figure  
+##### Figure
 
 ![image](/history-figure.png#center)
 
@@ -31,9 +31,5 @@ This paper shows that technological progress changes relative wages through its 
 ##### Citation
 
 [SSRN Working Paper](https://ssrn.com/abstract=5380261)
-
-
-
-
 
 
