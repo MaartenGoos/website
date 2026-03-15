@@ -11,14 +11,14 @@ menu:
         - name: Home
           url: /
           weight: 1
-        - name: Working papers
-          url: /research/
-          weight: 2
         - name: Publications
           url: /publications/
+          weight: 2
+        - name: Working papers
+          url: /workingpapers/
           weight: 3
-        - name: Courses
-          url: /courses/
+        - name: Teaching
+          url: /teaching/
           weight: 4        
 params:
     description: "homepage of Maarten Goos"
@@ -32,7 +32,7 @@ params:
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
     ShowPostNavLinks: false
-    ShowBreadCrumbs: false
+    ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     ShowRssButtonInSectionTermList: false
     ShowToc: false
@@ -45,18 +45,12 @@ params:
     profileMode:
           enabled: true
           title: Maarten Goos
-          subtitle: "Welcome to my homepage! I am an economist. My research and courses focus on labor problems, technological change, industrial relations, what unions do, monopsony, and inequality."
-          imageUrl: "/picture-2.jpg"
+          subtitle: "Welcome to my homepage! I am an economist. My research and courses focus on labor problems, technological change, social security, industrial relations, what unions do, monopsony, and inequality."
+          imageUrl: "/picture-1.jpg"
           imageWidth: 320
           imageHeight: 320
           imageTitle: Maarten Goos
-          buttons:
-            - name: Working papers
-              url: /research/
-            - name: Publications
-              url: /publications/
-            - name: Courses
-              url: /courses/
+          buttons: []
     socialIcons:
         - name: Email
           url: mailto:m.goos@uu.nl
@@ -77,8 +71,8 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Maarten Goos"
-      icon: /picture-2.jpg
+      text: ""
+      icon: ""
       iconHeight: 30
 markup:
     goldmark:

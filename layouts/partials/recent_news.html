@@ -1,0 +1,19 @@
+{{- with site.Data.news }}
+<section class="recent-news">
+    <h2>Recent news</h2>
+    <div class="news-list">
+        {{- range . }}
+        <a class="news-row" href="{{ .url }}">
+            <div class="news-image">
+                <img src="{{ .image | absURL }}" alt="{{ .title }}" />
+            </div>
+            <div class="news-text">
+                <h3>{{ .title }}</h3>
+                <p>{{ .text }}</p>
+                <time>{{ .date }}</time>
+            </div>
+        </a>
+        {{- end }}
+    </div>
+</section>
+{{- end }}

@@ -4,14 +4,9 @@
   <header class="post-header">
     {{ partial "breadcrumbs.html" . }}
     <h1 class="post-title">
-      {{ .Title }}
+      {{ .Title | safeHTML }}
       {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
     </h1>
-<!--     {{- if .Description }}
-    <div class="post-description">
-      {{ .Description }}
-    </div> -->
-    <!-- {{- end }} -->
     {{- if not (.Param "hideMeta") }}
     <div class="post-meta">
       {{- partial "post_meta.html" . -}}
@@ -20,8 +15,16 @@
       {{- partial "post_canonical.html" . -}}
     </div>
     {{- end }}
+    {{- if .Description }}
+    <div class="post-description">
+      {{ .Description | safeHTML }}
+    </div>
+    {{- end }}
   </header>
   {{- $isHidden := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}
+  {{- if isset .Params.cover "hidden" }}
+    {{- $isHidden = .Params.cover.hidden }}
+  {{- end }}
   {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
   {{- if (.Param "ShowToc") }}
   {{- partial "toc.html" . }}

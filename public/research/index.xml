@@ -1,109 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Research on Maarten Goos</title>
-    <link>/research/</link>
-    <description>Recent content in Research on Maarten Goos</description>
+    <title>Working papers on Maarten Goos</title>
+    <link>https://maartengoos.com/research/</link>
+    <description>Recent content in Working papers on Maarten Goos</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://maartengoos.com/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>What Happens to Workers at Firms that Automate</title>
-      <link>/research/12/</link>
-      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      <title>Latent Changes in the Labor Share</title>
+      <link>https://maartengoos.com/research/24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/research/12/</guid>
-      <description>This paper estimates the impact of firm-level investments in automation technologies on worker-level outcomes. It finds that automation increases the probability of incumbent workers separating from their employers, in line with recent task-based models of automation. It shows that incumbent workers experience a 5-year cumulative wage income loss of 9 percent of one year&amp;rsquo;s earnings on average, driven by decreases in days worked. These adverse impacts of automation are larger in smaller firms, and for older and less-educated workers. By contrast, no such losses are found for firms&amp;rsquo; investments in computers.</description>
+      <guid>https://maartengoos.com/research/24/</guid>
+      <description>Download Paper Abstract Acemoglu and Restrepo (2019)’s canonical model of automation unambiguously predicts a decline in the labor share within sectors. Decomposing changes in the US labor share into within-sector and between-sector components, they show that within-sector changes indeed account for the bulk of the recent decline in the US labor share, while overall between-sector changes are quantitatively unimportant. However, by extending their single-sector framework to a multi-sector model and rooting it in an empirically tractable decomposition, this paper shows that the small overall between-sector component conceals substantial, though offsetting, equilibrium changes in consumer demand resulting from sector-specific changes in factor quantities and TFP growth.</description>
     </item>
     
     <item>
-      <title>Routine-Biased Technical Change: Firm-Level Evidence from a Plant Closure</title>
-      <link>/research/11/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <title>Types in Job Search Effort</title>
+      <link>https://maartengoos.com/research/23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/research/11/</guid>
-      <description>This paper uses unique survey data of workers at a large car plant who became unemployed when the plant closed. In line with the RBTC hypothesis, it finds that re-employment probabilities 1,5 years after the plant’s closure are substantially higher for workers with nonroutine task competencies and with digital skills. Moreover, for the subset of individuals who were re-employed 1,5 years after the plant’s closure, the paper finds that the nonroutine content of job tasks is higher, wages are lower, and contracts are less permanent.</description>
+      <guid>https://maartengoos.com/research/23/</guid>
+      <description>Download Paper Abstract Public employment services are increasingly using online job platforms to help unemployed job seekers find jobs. This paper shows that these policies implicitly target those who benefit the most from them. The reason is that search intensity on online job platforms is characterized by &amp;ldquo;types&amp;rdquo;: more-educated job seekers with better language and digital skills use the online job platform more intensively throughout their unemployment spell. Moreover, these high-types in online search effort are also more likely to take-up in-person job search assistance and, if they do, are more responsive to it.</description>
     </item>
     
     <item>
-      <title>Firm-Level Automation: Evidence from The Netherlands</title>
-      <link>/research/10/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <title>Domestic Outsourcing and Worker Outcomes</title>
+      <link>https://maartengoos.com/research/22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/research/10/</guid>
-      <description>This paper uses a Dutch firm-level survey on automation expenditures linked to administrative records covering the universe of firms in the Netherlands to consider firm-level automation over 2000–2016. It shows that net employment at firms falls after investments in automation technology. Importantly, this effect arises among both manufacturing and nonmanufacturing firms, indicating that this is not specific to technologies like robotics.</description>
+      <guid>https://maartengoos.com/research/22/</guid>
+      <description>Download Paper Abstract The rising incidence of alternative work arrangements, such as outsourcing, raises important questions about worker outcomes in such non-standard labor contracts. We study this question in the Netherlands, a country with a rapid rise in flexible labor contracts, using administrative employer-employee data from 2006–2019. To identify the causal impact of outsourcing, we take advantage of a legal arrangement called “payrolling”, where workers hired by one firm are placed on a staffing firm’s payroll while maintaining their job duties at the original firm.</description>
     </item>
     
     <item>
-      <title>Markets for Jobs and their Task Overlap</title>
-      <link>/research/9/</link>
-      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Wiring Equality: The Impact of Internet on Wage Dispersion</title>
+      <link>https://maartengoos.com/research/21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/research/9/</guid>
-      <description>This paper shows that the labour market is organized along jobs and their task content. It shows that tightness in markets for jobs for which an unemployed job seeker fully qualifies in terms of her task competencies is predictive of her unemployment duration. The paper also finds that unemployed job seekers do not compete in markets where they possess only part of the required task competencies, suggesting that task overlap across jobs is unimportant for worker mobility between job markets.</description>
+      <guid>https://maartengoos.com/research/21/</guid>
+      <description>Download Paper Abstract This paper shows that investment in internet infrastructure compresses lower-tail wage inequality. We present a monopsony model with heterogeneous firms in which better job search by workers, due to increased internet access, forcing wages to converge to the competitive wage.This results in larger wage increases for low-wage workers and a reallocation of workers from low-wage to high-wage firms, such that lower-tail wage inequality decreases. We then leverage the liberalization of the telecommunications market in Costa Rica as a natural experiment in a continuous treatment DiD design to show evidence in support of our model.</description>
     </item>
     
     <item>
-      <title>Job Polarization: An Historical Perspective</title>
-      <link>/research/8/</link>
-      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Technological Progress in Slack Labor Markets</title>
+      <link>https://maartengoos.com/research/20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/research/8/</guid>
-      <description>This paper uses historical labour market data for Belgium for the period 1846–2011 to illustrate how the employment impacts of the ongoing Digital Revolution after 1980 compare to those of the Second Industrial Revolution before 1980. In particular, it shows that labour markets after 1980 are not uniquely characterized by exceptionally high labour market turbulence but by the nature of changes in the composition of jobs, namely a process of job polarization.</description>
-    </item>
-    
-    <item>
-      <title>Local High-Tech Job Multipliers in Europe</title>
-      <link>/research/7/</link>
-      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/research/7/</guid>
-      <description>This article finds that each worker in a high-skilled occupation creates up to five extra jobs in local less-skilled-intensive services in the same region. However, it is also shown that there exist persistent differences in the size of this local high-tech job multiplier across regions.</description>
-    </item>
-    
-    <item>
-      <title>Measuring Teaching Quality in Higher Education: Assessing Selection Bias in Course Evaluations</title>
-      <link>/research/6/</link>
-      <pubDate>Thu, 12 Feb 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/research/6/</guid>
-      <description>This paper finds that there is an upward selection bias in students&amp;rsquo; course evaluations, and that correcting for this bias has non-negligible effects on the average evaluation score and on the evaluation-based ranking of courses. However, we find that adjusting for selection only has small impacts on the measured effects of observables on course evaluations, validating a large related literature which considers the observable determinants of evaluation scores without correcting for selection bias.</description>
-    </item>
-    
-    <item>
-      <title>Explaining Job Polarization in Europe: Routine-Biased Technological Change and Offshoring</title>
-      <link>/research/5/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/research/5/</guid>
-      <description>This paper documents the pervasiveness of job polarization in 16 Western European countries over the period 1993–2010. It then develops and estimates a framework to explain job polarization using routine-biased technological change and offshoring. This model can explain much of both total job polarization and the split into within-industry and between-industry components.</description>
-    </item>
-    
-    <item>
-      <title>Platform Pricing in Matching Markets</title>
-      <link>/research/4/</link>
-      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/research/4/</guid>
-      <description>This paper introduces matching in two-sided markets. It shows that a platform&amp;rsquo;s positive cross-side and negative own-side network externalities can be summarized by a general matching function that captures the efficiency of the platform&amp;rsquo;s matching technology. The paper also shows that the pricing strategy of a monopoly matchmaker only partially internalizes the efficiency of its matching technology.</description>
-    </item>
-    
-    <item>
-      <title>Job Polarization in Europe</title>
-      <link>/research/3/</link>
-      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
-      
-      <guid>/research/3/</guid>
-      <description>This paper documents the pervasiveness of job polarization across 16 European countries. It also discusses several hypotheses about the reasons for job polarization. First, the “routinization” hypothesis (first put forward by Autor, Levy, and Murnane 2003) suggests that technological progress is to replace “routine” labor which tends to be clerical and craft jobs in the middle of the wage distribution. Second, there is the view that globalization is an important source of change in the job structure in the richest countries. Third, the rise in the share of income going to the rich may have led to an increase in demand for low-skill workers whose employment increasingly consists of providing services to the rich.</description>
-    </item>
-    
-    <item>
-      <title>Lousy and Lovely Jobs: The Rising Polarization of Work in Britain</title>
-      <link>/research/2/</link>
-      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
-      
-      <guid>/research/2/</guid>
-      <description>This paper shows that the United Kingdom since 1975 has exhibited a pattern of job polarization with rises in employment shares in the highest- and lowest-wage occupations. It argues that this is not entirely consistent with the idea of skill-biased technical change as a hypothesis about the impact of technology on the labor market. Instead, it shows that the “routinization” hypothesis recently proposed by Autor, Levy, and Murnane (2003) is a better explanation of job polarization.</description>
+      <guid>https://maartengoos.com/research/20/</guid>
+      <description>Download Paper Abstract This paper shows that technological progress changes relative wages through its impact on labor relations. The paper first presents a simple monopsony model in which firms have wage-setting power because workers are in excess supply, and technological progress erodes firms’ monopsony power by increasing labor market tightness. Although technological progress is factor neutral, the model predicts that lower-tail wage inequality decreases. These predictions are then corroborated using unique census data from Belgium’s Second Industrial Revolution between 1846 and 1896.</description>
     </item>
     
   </channel>
