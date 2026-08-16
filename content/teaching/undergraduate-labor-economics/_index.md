@@ -1,5 +1,6 @@
 ---
 title: "Undergraduate Labor Economics"
+weight: 1
 externalUrl: "https://www.mheducation.com/highered/product/labor-economics-borjas.html?viewOption=student"
 cover:
     image: "/Borjas9.jpeg"
