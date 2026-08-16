@@ -1,0 +1,17 @@
+name: Scheduled rebuild
+
+# The /blog page is built from the Substack RSS feed, so the site has to be
+# rebuilt for a new Substack post to show up. This pings a Netlify build hook
+# once a day (and on demand via "Run workflow").
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # every day at 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Netlify build
+        run: curl -fsSL -X POST -d '{}' "${{ secrets.NETLIFY_BUILD_HOOK }}"

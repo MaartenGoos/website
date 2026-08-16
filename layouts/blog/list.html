@@ -1,0 +1,56 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+</header>
+
+{{- if .Content }}
+<div class="post-content">{{ .Content }}</div>
+{{- end }}
+
+{{- /* Pull the Substack posts at build time. A failed fetch aborts the build on
+       purpose, so Netlify keeps the previously deployed (working) version live. */}}
+{{- $feedURL := .Params.feedUrl }}
+{{- $items := slice }}
+{{- with resources.GetRemote $feedURL }}
+  {{- with .Err }}
+    {{- errorf "Substack feed %q could not be fetched: %s" $feedURL . }}
+  {{- else }}
+    {{- $channel := (unmarshal .Content).channel }}
+    {{- with $channel.item }}
+      {{- $items = . }}
+    {{- end }}
+  {{- end }}
+{{- else }}
+  {{- errorf "Substack feed %q returned nothing" $feedURL }}
+{{- end }}
+
+{{- range $items }}
+{{- $title := .title | plainify }}
+<article class="post-entry">
+  {{- with index (.enclosure | default dict) "-url" }}
+  <figure class="entry-cover">
+    <img loading="lazy" src="{{ . }}" alt="{{ $title }}">
+  </figure>
+  {{- end }}
+  <div class="entry-body">
+    <header class="entry-header">
+      <h2>{{ $title }}</h2>
+    </header>
+    {{- with .pubDate }}
+    <footer class="entry-footer">
+      {{ time.Format (default "January 2, 2006" site.Params.DateFormat) (time.AsTime .) }}
+    </footer>
+    {{- end }}
+    {{- with .description }}
+    <div class="entry-content">
+      <p>{{ . | plainify }}</p>
+    </div>
+    {{- end }}
+  </div>
+  <a class="entry-link" aria-label="post link to {{ $title }}" href="{{ .link | safeURL }}"
+    target="_blank" rel="noopener noreferrer"></a>
+</article>
+{{- end }}
+
+{{- end }}{{- /* end main */ -}}
