@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Maarten Goos
-          subtitle: "Welcome to my homepage! I am an Instituut Gak Endowed Professor at the Utrecht University School of Economics (USE), and I am a Part-Time Full Professor at the Tilburg School of Economics and Management (TiSEM) at Tilburg University. My research and courses focus on technological change, product and labor markets, social security, industrial relations, what unions do, monopsony, and inequality."
+          subtitle: "Welcome to my homepage! I am an Instituut Gak Endowed Professor at the Utrecht University School of Economics (USE), and I am a Part-Time Full Professor at the Tilburg School of Economics and Management (TiSEM) at Tilburg University. I hold a PhD from the London School of Economics, and my research and courses focus on technological change, product and labor markets, what unions do, social security, and inequality."
           imageUrl: "/picture-1.jpg"
           imageWidth: 320
           imageHeight: 320
