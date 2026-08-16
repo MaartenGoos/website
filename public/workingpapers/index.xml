@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Working papers on Maarten Goos</title>
+    <link>https://maartengoos.com/workingpapers/</link>
+    <description>Recent content in Working papers on Maarten Goos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://maartengoos.com/workingpapers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Domestic Outsourcing and Worker Outcomes</title>
+      <link>https://maartengoos.com/workingpapers/payrolling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maartengoos.com/workingpapers/payrolling/</guid>
+      <description>Revise and Resubmit in &amp;lt;em&amp;gt;Review of Economics and Statistics&amp;lt;/em&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>Wiring Equality:&lt;br&gt; The Impact of Internet on Wage Dispersion</title>
+      <link>https://maartengoos.com/workingpapers/internet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maartengoos.com/workingpapers/internet/</guid>
+      <description>Download Paper Abstract This paper shows that investment in internet infrastructure compresses lower-tail wage inequality. We present a monopsony model with heterogeneous firms in which better job search by workers, due to increased internet access, forcing wages to converge to the competitive wage.This results in larger wage increases for low-wage workers and a reallocation of workers from low-wage to high-wage firms, such that lower-tail wage inequality decreases. We then leverage the liberalization of the telecommunications market in Costa Rica as a natural experiment in a continuous treatment DiD design to show evidence in support of our model.</description>
+    </item>
+    
+    <item>
+      <title>Technological Progress in Slack Labor Markets</title>
+      <link>https://maartengoos.com/workingpapers/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maartengoos.com/workingpapers/history/</guid>
+      <description>Download Paper Abstract This paper shows that technological progress changes relative wages through its impact on labor relations. The paper first presents a simple monopsony model in which firms have wage-setting power because workers are in excess supply, and technological progress erodes firms’ monopsony power by increasing labor market tightness. Although technological progress is factor neutral, the model predicts that lower-tail wage inequality decreases. These predictions are then corroborated using unique census data from Belgium’s Second Industrial Revolution between 1846 and 1896.</description>
+    </item>
+    
+    <item>
+      <title>Types in Job Search Effort</title>
+      <link>https://maartengoos.com/workingpapers/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maartengoos.com/workingpapers/search/</guid>
+      <description>Download Paper Abstract Public employment services are increasingly using online job platforms to help unemployed job seekers find jobs. This paper shows that these policies implicitly target those who benefit the most from them. The reason is that search intensity on online job platforms is characterized by &amp;ldquo;types&amp;rdquo;: more-educated job seekers with better language and digital skills use the online job platform more intensively throughout their unemployment spell. Moreover, these high-types in online search effort are also more likely to take-up in-person job search assistance and, if they do, are more responsive to it.</description>
+    </item>
+    
+  </channel>
+</rss>

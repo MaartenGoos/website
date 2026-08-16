@@ -2,59 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://maartengoos.com/research/24/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/research/23/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/research/22/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/research/21/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/research/20/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/publications/19/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/publications/18/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/publications/17/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/publications/16/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/publications/15/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/publications/14/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/publications/13/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/publications/12/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/publications/11/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/publications/10/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/publications/9/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/publications/8/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/publications/7/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/publications/6/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/publications/5/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/publications/4/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/publications/3/</loc>
-  </url><url>
-    <loc>https://maartengoos.com/publications/2/</loc>
+    <loc>https://maartengoos.com/workingpapers/payrolling/</loc>
   </url><url>
     <loc>https://maartengoos.com/publications/1/</loc>
   </url><url>
-    <loc>https://maartengoos.com/courses/graduate-labor-economics/c1/</loc>
+    <loc>https://maartengoos.com/teaching/graduate-labor-economics/technology/</loc>
   </url><url>
-    <loc>https://maartengoos.com/courses/graduate-labor-economics/c4/</loc>
+    <loc>https://maartengoos.com/teaching/undergraduate-labor-economics/</loc>
   </url><url>
-    <loc>https://maartengoos.com/courses/graduate-labor-economics/</loc>
+    <loc>https://maartengoos.com/teaching/graduate-labor-economics/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/teaching/graduate-labor-economics/imperfect/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/publications/2/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/workingpapers/internet/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/publications/3/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/workingpapers/history/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/publications/4/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/workingpapers/search/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/publications/5/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/publications/6/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/publications/7/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/publications/8/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/publications/9/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/publications/10/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/publications/11/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/publications/12/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/publications/13/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/publications/14/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/publications/15/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/publications/16/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/publications/17/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/publications/18/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/publications/19/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/publications/20/</loc>
+  </url><url>
+    <loc>https://maartengoos.com/blog/</loc>
   </url><url>
     <loc>https://maartengoos.com/location/</loc>
   </url><url>
@@ -66,8 +70,8 @@
   </url><url>
     <loc>https://maartengoos.com/tags/</loc>
   </url><url>
-    <loc>https://maartengoos.com/courses/</loc>
+    <loc>https://maartengoos.com/teaching/</loc>
   </url><url>
-    <loc>https://maartengoos.com/research/</loc>
+    <loc>https://maartengoos.com/workingpapers/</loc>
   </url>
 </urlset>

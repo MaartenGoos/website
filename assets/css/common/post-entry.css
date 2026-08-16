@@ -111,6 +111,13 @@
     pointer-events: none;
 }
 
+/* Teaching: keep every course tile the same height regardless of cover
+   aspect ratio, letterboxing the image instead of cropping or stretching. */
+.section-teaching .post-entry:has(.entry-cover) .entry-cover img {
+    height: 170px;
+    object-fit: contain;
+}
+
 .post-entry .entry-body {
     flex: 1;
     min-width: 0;
