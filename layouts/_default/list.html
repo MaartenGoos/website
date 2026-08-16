@@ -91,7 +91,11 @@
     </div>
     {{- end }}
   </div>
+  {{- with .Params.externalUrl }}
+  <a class="entry-link" aria-label="link to {{ $page.Title | plainify }}" href="{{ . | safeURL }}" target="_blank" rel="noopener noreferrer"></a>
+  {{- else }}
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+  {{- end }}
 </article>
 {{- end }}
 
