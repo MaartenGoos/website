@@ -25,6 +25,12 @@
   {{- errorf "Substack feed %q returned nothing" $feedURL }}
 {{- end }}
 
+{{- /* Dutch month names for the post dates. */}}
+{{- $dutchMonths := dict
+  "January" "januari" "February" "februari" "March" "maart" "April" "april"
+  "May" "mei" "June" "juni" "July" "juli" "August" "augustus"
+  "September" "september" "October" "oktober" "November" "november" "December" "december" }}
+
 {{- range $items }}
 {{- $title := .title | plainify }}
 <article class="post-entry">
@@ -38,8 +44,12 @@
       <h2>{{ $title }}</h2>
     </header>
     {{- with .pubDate }}
+    {{- $date := time.Format (default "January 2, 2006" site.Params.DateFormat) (time.AsTime .) }}
+    {{- range $en, $nl := $dutchMonths }}
+      {{- $date = replace $date $en $nl }}
+    {{- end }}
     <footer class="entry-footer">
-      {{ time.Format (default "January 2, 2006" site.Params.DateFormat) (time.AsTime .) }}
+      {{ $date }}
     </footer>
     {{- end }}
     {{- with .description }}
