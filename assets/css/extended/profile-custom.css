@@ -25,6 +25,13 @@
     flex: 1;
 }
 
+/* Justify the subtitle paragraphs */
+.profile .profile-text span {
+    display: block;
+    text-align: justify;
+    hyphens: auto;
+}
+
 .profile .profile-image {
     flex-shrink: 0;
 }
@@ -111,6 +118,11 @@
     .profile .profile-content {
         flex-direction: column-reverse;
         text-align: center;
+    }
+
+    .profile .profile-text span {
+        text-align: center;
+        hyphens: none;
     }
 
     .profile .buttons {
